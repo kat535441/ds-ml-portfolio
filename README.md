@@ -33,7 +33,7 @@ Computer vision service for document verification using YOLO classification and 
 
 ## Contact
 
-[Your email or Telegram]
+ekaterina5359@gmail.com
 
 ## License
 
