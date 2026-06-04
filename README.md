@@ -2,8 +2,11 @@
 
 ## About Me
 
-Data Scientist with 10 months of commercial experience and 2 years of ML education.  
-I deliver production-ready ML pipelines with CI/CD, Docker, and cloud integration (Azure, S3).
+Data Scientist with 1 year of commercial experience and 5 years of prior research background in analytical chemistry — where I worked extensively with chromatographic data, built feature matrices, and applied statistical modeling long before transitioning to ML.
+
+I deliver production-ready ML pipelines: clean Python code, CI/CD integration (Docker, GitActions, Azure, TeamCity, ClearML), and documented handoffs that engineering teams can integrate directly.
+
+My focus is classical ML — classification, recommendation systems, fraud detection — with growing expertise in Computer Vision and LLM.
 
 ## Projects
 
