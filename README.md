@@ -34,7 +34,3 @@ Computer vision service for document verification using YOLO classification and 
 ## Contact
 
 ekaterina5359@gmail.com
-
-## License
-
-MIT
