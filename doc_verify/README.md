@@ -1,4 +1,3 @@
-markdown
 # Document Verification Service
 
 ML-powered document verification service using YOLO for document classification and OCR for text extraction.
