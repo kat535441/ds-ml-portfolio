@@ -1,4 +1,3 @@
-README для третьего проекта
 markdown
 # Document Verification Service
 
